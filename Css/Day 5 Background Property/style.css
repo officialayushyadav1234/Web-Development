@@ -1,0 +1,19 @@
+
+body{
+    /* background-color: rgb(219, 135, 163);
+    color: rgb(242, 238, 232); */
+    
+    /* background-image: linear-gradient(to top, rgb(174, 255, 150),purple,black); */
+
+    /* background-image: linear-gradient(to bottom, rgb(174, 255, 150),rgb(175, 87, 31),black); */
+
+    /* background-image: linear-gradient(to top left, rgb(174, 255, 150),purple,black); */
+
+    background-image: linear-gradient(to top right, rgb(174, 255, 150),purple,black);
+
+    /* background-image:radial-gradient(to top right, rgb(174, 255, 150),purple,black); */
+
+    /* background-image: radial-gradient(to left, black, skyblue, magenta); */
+    
+}
+

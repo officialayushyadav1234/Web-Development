@@ -1,0 +1,15 @@
+/* Not Visited */
+a:link{
+    color: blue;
+}
+
+/* active state */
+a:active{
+    color: blueviolet;
+}
+
+/* Visited  State */
+a:visited{
+    color: brown;
+}
+

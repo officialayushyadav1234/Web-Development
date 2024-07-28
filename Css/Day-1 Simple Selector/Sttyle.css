@@ -1,0 +1,48 @@
+/* -----------------Tag Selector Or Element Selector */
+
+/* div{
+    color: rgb(19, 136, 97);
+    font-size: 25px;
+}
+p{
+    color: rgb(230, 211, 188);
+    background-color: black;
+} */
+
+/* -----------------------Id Selector----------------*/
+
+/* #Tag-1 {
+    color: peru;
+    font-size: 25px;
+    font-style: italic;
+    background-color: aquamarine;
+}
+#Tag-2{
+    color: red;
+    font-size: 30px;
+    background-color: rgb(211, 223, 46);
+} */
+
+
+/* ----------------------Class Selector-------------- */
+
+/* .flex{
+    color: red;
+    font-size: 30px;
+} */
+
+
+/* ---------------------Universal Selector------------ */
+
+/* *{
+    background-color: black;
+    color: rgb(161, 49, 49);
+    font-size: 25px;
+    font-style: oblique;
+} */
+
+/* ----------------------Grouping Selector-------------*/
+
+/* div,span,p{
+    color: rgb(171, 73, 23);
+} */

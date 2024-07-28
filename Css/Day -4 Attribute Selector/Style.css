@@ -1,0 +1,84 @@
+/* -----------------------Attribute Selector------------------ */
+
+/* body{
+    background-color: black;
+    color: white;
+} */
+
+
+/* div[title] {
+    color: rgb(29, 168, 89);
+} */
+
+
+
+/* div[title="div-1"] {
+    color: blue;
+    font-size: 25px;
+}
+div[title="div-2"] {
+    color: brown;
+    font-size: 30px;
+} */
+
+
+/* -----------------Prefix---------------  */
+
+/* Tagname[attribute^="Prefix value"] {    } */
+
+/* Prefix value */
+/* div [title^="div-1"] {
+    color: red;
+} */
+
+/*-------------------- Postfix--------------- */
+/* Tagname[attribute$="Postfix value"]  */
+
+/* div[title$="container-1"] {
+   
+    color: blue;
+    font-size: 20px;
+} */
+
+/* -----------------------suffix--------------- */
+
+/* Tagname[attribute~="Sufix value"] */
+
+/* div[title~="flex-2"] {
+    color: brown;
+    font-size: 30px;
+} */
+
+
+/* -------------------------Other Ways --------------- */
+
+
+/* div[title*="div-1"]{
+    color: peru;
+    font-size: 30px;
+}
+div[title*="div-2"] {
+    color: blueviolet;
+    font-size: 30px;
+} */
+
+/* div[title*="flex-1"] {
+    color: blueviolet;
+    font-size: 30px;
+}
+div[title*="flex-2"] {
+    color: rgb(226, 159, 43);
+    font-size: 30px;
+}
+
+div[title*="container-1"] {
+    color: rgb(43, 177, 226);
+    font-size: 30px;
+} */
+div[title*="container-2"] {
+    color: rgb(43, 131, 226);
+    font-size: 30px;
+}
+
+
+

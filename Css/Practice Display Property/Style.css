@@ -1,0 +1,23 @@
+.block-element {
+    display: block;
+    width: 100%;
+    background-color: lightblue;
+}
+
+.inline-element {
+    display: inline;
+    background-color: lightgreen;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+    background-color: lightcoral;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    background-color: lightgoldenrodyellow;
+}

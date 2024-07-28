@@ -1,0 +1,24 @@
+/* article:first-child{
+    color: aqua;
+}
+
+article>:last-child{
+    color: brown;
+}
+
+article>:nth-child(2){
+    color: black;
+}
+
+article>:nth-child(3){
+    color: blueviolet;
+} */
+
+/* article>p:last-of-type{
+    color: blue;
+} */
+
+article>p:nth-of-type(odd){
+    color: brown;
+}
+ 

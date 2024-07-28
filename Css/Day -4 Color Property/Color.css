@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+/* -------------Color Property---------- */
+
+div{
+    color: peru;
+    font-size: 25px;
+    font-style: italic;
+}
+
+p{
+    color: palegreen;
+    font-size: 15px;
+}

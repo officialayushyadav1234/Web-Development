@@ -1,0 +1,32 @@
+
+/* Descendent Selector */
+/* article  div{
+    color: rgb(122, 65, 38);
+}
+
+/* Direct CHild Selector */
+/* article>p{
+    color: blueviolet;
+} */
+
+/* Direct Child Selector */
+/* article>main>p{
+    color: brown;
+}  */
+
+/* Immediate Adjcent Sibling */
+
+
+/* article+div+h5+span{
+    color: brown;
+} */
+
+/* article+div+h5+span+p{
+    color: rgb(17, 133, 38);
+} */ 
+
+/* General Sibling Selector */
+article~h5{
+    color: blueviolet;
+}
+
